@@ -1,4 +1,4 @@
-![data equity logo]()
+![data equity logo](https://github.com/will-saunders/data-equity/blob/master/DataEquity1.png)
 # Data Equity for Main Street
 ###   bringing open data home through local libraries
 
