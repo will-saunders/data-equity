@@ -1,3 +1,4 @@
+![data equity logo]()
 # Data Equity for Main Street
 ###   bringing open data home through local libraries
 
