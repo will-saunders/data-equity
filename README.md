@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+#Data Equity for Main Street
+###   bringing open data home through local libraries
 
-You can use the [editor on GitHub](https://github.com/will-saunders/data-equity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+By empowering librarians with the knowledge to find and use this data, and creating tools for libraries to teach everyone in their community to find and use this data, this project builds the foundation for communities in which everyone – not just a select few who are already knowledgeable and skilled – shares in the benefit and promise of open data.
+Libraries are not community centers, but they are centers of our communities. As John Palfrey describes in BiblioTech: Why Libraries Matter More Than Ever in the Age of Google, libraries have an intellectual/educational mission – led by trained information professionals – that differentiates them from community centers. This is precisely why they are the right organizations to ensure that all Americans have an opportunity to take advantage of open data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/will-saunders/data-equity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Project Team
+Anne Neville (link is external) (Dir., CA Research Bureau, CA State Library): Built and led open data program (link is external), (National Broadband Map (link is external)); builds partnerships across sectors, 15 yrs of digital equity work.
+Will Saunders (link is external) (WA State’s “Open Data Guy”): Expands open data across WA; as State Broadband Manager, created program for students to use open data.
