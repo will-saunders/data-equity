@@ -1,4 +1,4 @@
-![data equity logo] (https://github.com/will-saunders/data-equity/blob/master/DataEquity1.png)
+![data equity logo](https://github.com/will-saunders/data-equity/blob/master/DataEquity1.png)
 
 By empowering librarians with the knowledge to find and use this data, and creating tools for libraries to teach everyone in their community to find and use this data, this project builds the foundation for communities in which everyone – not just a select few who are already knowledgeable and skilled – shares in the benefit and promise of open data.
 
